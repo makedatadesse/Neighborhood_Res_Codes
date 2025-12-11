@@ -22,5 +22,8 @@
 * [CIA Intelligence Assessment](https://www.cia.gov/readingroom/docs/CIA-RDP86T00589R000200160004-5.pdf#:~:text=His%20stated%20rationale%20of%20relocating%20peasants%20from,up%20by%20the%20prospect%20of%20forced%20resettlement.)
 * [Ethiopia: Conflict and food insecurity 40 years on from the 1984 famine](https://lordslibrary.parliament.uk/ethiopia-conflict-and-food-insecurity-40-years-on-from-the-1984-famine/#:~:text=Between%201983%20and%201985%20there,of%20communities%20into%20planned%20villages%5D.)
 
+<br>
+<br>
 
+_Lab 1 Map Idea:_
 ![Lab 1 Map](https://github.com/user-attachments/assets/81b55056-f7fe-4443-ad0e-80fc7f9eba09)
