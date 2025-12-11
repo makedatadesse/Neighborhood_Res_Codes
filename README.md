@@ -1,5 +1,8 @@
-# Neighborhood_Res
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project, as part of the final, will be mapping the potential route refugees in 1980s Ethiopia and Eritrea may have taken to Khartoum, Sudan, taking into account conflict zones, communicable diseases, elevation, and other barriers. This repository includes a series of exploratory labs that explores and maps elevation and conflict data as stepping stones for raster analysis to utilize Least Cost Corridor between both points.
+# Neighborhood_Corridor
+***View the official storymap here:*** [Neighborhood Corridor](https://storymaps.arcgis.com/stories/ac843be515b841b988d229ebad65069e)
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project, as part of the final, will be mapping the potential route refugees in 1989-1995 Ethiopia and Eritrea may have taken to Khartoum, Sudan, taking into account conflict zones, communicable diseases, elevation, and other barriers. This repository includes a series of exploratory labs that explores and maps elevation and conflict data as stepping stones for raster analysis to utilize Least Cost Corridor between both points.
 
 ### Datasets:
 * Uppsala Conflict Data Program, Department of Conflict Research 1989 Ethiopia and Sudan conflict data
